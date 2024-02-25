@@ -1,0 +1,14 @@
+{
+  "name": "proj1",
+  "version": "2.0.0",
+  "description": "my first node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asg148",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
